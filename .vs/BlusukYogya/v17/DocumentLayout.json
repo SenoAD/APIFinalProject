@@ -1,0 +1,835 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\vacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\vacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\planitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\planitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\vacationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\vacationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\vacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\vacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\controllers\\vacationplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\controllers\\vacationplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\interface\\ivacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\interface\\ivacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\yogyablusukcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\yogyablusukcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\interface\\ivacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\interface\\ivacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\tagdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\tagdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\insertvacationplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\insertvacationplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\planitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\planitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\vacationplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\vacationplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\insertplanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\insertplanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\placereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\placereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\userwithtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\userwithtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\blusukyogya.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\blusukyogya.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\interface\\iuserbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\interface\\iuserbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\rolebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\rolebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\interface\\irolebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\interface\\irolebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\rolecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\rolecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\tagbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\tagbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\interface\\itagbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\interface\\itagbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\interface\\iroledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\interface\\iroledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\interface\\iplacebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\interface\\iplacebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\interface\\iplacedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\interface\\iplacedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\interface\\itagdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\interface\\itagdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PlacesController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\PlacesController.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Controllers\\PlacesController.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\PlacesController.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Controllers\\PlacesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:18:00.06Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Program.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Program.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Program.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:26:53.762Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\UserData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\UserData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\UserData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\UserData.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwEcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:00:43.524Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IUserData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\Interface\\IUserData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IUserData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\Interface\\IUserData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:00:41.738Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAkwGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:46:22.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\UserBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\UserBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\UserBLL.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:42:49.112Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IUserBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Interface\\IUserBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IUserBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Interface\\IUserBLL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:41:19.679Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoleData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\RoleData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\RoleData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\RoleData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\RoleData.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:27:26.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVacationPlanData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:01:58.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVacationPlanBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:13:40.062Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacationPlanBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:24:50.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VacationPlanData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\VacationPlanData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\VacationPlanData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\VacationPlanData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\VacationPlanData.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwD4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:01:39.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VacationPlansController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:32:08.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VacationPlan.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\VacationPlan.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\VacationPlan.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\VacationPlan.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\VacationPlan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:44:09.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\User.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\User.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\User.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:44:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Tag.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\Tag.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Tag.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:44:01.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Role.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\Role.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Role.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanItem.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\PlanItem.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\PlanItem.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\PlanItem.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\PlanItem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlaceReview.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\PlaceReview.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\PlaceReview.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\PlaceReview.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\PlaceReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:46.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Place.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Place.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\Place.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Place.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:36.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Category.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\Category.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Category.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YogyaBlusukContext.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\YogyaBlusukContext.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\YogyaBlusukContext.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\YogyaBlusukContext.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\YogyaBlusukContext.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAswNUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:41:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\RoleBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\RoleBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\RoleBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\RoleBLL.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:07:59.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:15:44.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlanItemDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:22:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VacationPlanDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:21:55.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InsertPlanItemDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\InsertPlanItemDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\InsertPlanItemDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\InsertPlanItemDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\InsertPlanItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:16:41.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsertVacationPlanDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\InsertVacationPlanDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\InsertVacationPlanDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\InsertVacationPlanDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\InsertVacationPlanDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:15:36.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\appsettings.json",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\appsettings.json",
+              "RelativeToolTip": "BlusukYogya.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T00:52:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserWithTokenDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\UserWithTokenDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\UserWithTokenDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\UserWithTokenDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\UserWithTokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:49:13.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Helpers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Helpers\\AppSettings.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Helpers\\AppSettings.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Helpers\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:47:25.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:44:10.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BlusukYogya.API.csproj",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\BlusukYogya.API.csproj",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\BlusukYogya.API.csproj",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\BlusukYogya.API.csproj",
+              "RelativeToolTip": "BlusukYogya.API\\BlusukYogya.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T23:38:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoleCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\RoleCreateDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\RoleCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\RoleCreateDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\RoleCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:06:19.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\RoleDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:05:02.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRoleBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IRoleBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Interface\\IRoleBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IRoleBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Interface\\IRoleBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:41:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:40:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:40:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\UserCreateDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\UserCreateDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\UserCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:40:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRoleData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IRoleData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\Interface\\IRoleData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IRoleData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\Interface\\IRoleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:25:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Controllers\\TagsController.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Controllers\\TagsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:13:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IPlaceData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IPlaceData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\Interface\\IPlaceData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IPlaceData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\Interface\\IPlaceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:02:35.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPlaceBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IPlaceBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Interface\\IPlaceBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IPlaceBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Interface\\IPlaceBLL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:02:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TagBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\TagBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\TagBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\TagBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\TagBLL.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:17:08.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ITagBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\ITagBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Interface\\ITagBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\ITagBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Interface\\ITagBLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:16:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\TagData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\TagData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\TagData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\TagData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:11:37.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ITagData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\ITagData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\Interface\\ITagData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\ITagData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\Interface\\ITagData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:58:30.478Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
